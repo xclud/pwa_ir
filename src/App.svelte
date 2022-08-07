@@ -19,7 +19,7 @@
           <img src="{avatar}" alt="Avatar" class="user-photo" />
           <div class="text-lg font-semibold mb-1.5">Mahdi K. Fard</div>
           <div class="text-sm text-gray-600 mb-1.5">Senior C# Developer</div>
-          <div class="text-sm text-gray-400 mb-7">mkfard@outlook.com</div>
+          <div class="text-sm text-gray-500 mb-7">mkfard@outlook.com</div>
           
         <div class="flex flex-col space-y-4">
           <ul class="flex space-x-5">
