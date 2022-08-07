@@ -30,7 +30,7 @@
                 target="_blank"
                 class="social-link-hover"
               >
-                <i class="bx bxl-linkedin text-2xl" />
+                <i class="bx bxl-linkedin text-2xl"></i>
               </a>
             </li>
             <li>
@@ -40,7 +40,7 @@
                 target="_blank"
                 class="social-link-hover"
               >
-                <i class="bx bxl-telegram text-2xl" />
+                <i class="bx bxl-telegram text-2xl"></i>
               </a>
             </li>
             <li>
@@ -48,9 +48,8 @@
                 aria-label="github"
                 href="https://github.com/xclud"
                 target="_blank"
-                class="social-link-hover"
-              >
-                <i class="bx bxl-github text-2xl" />
+                class="social-link-hover">
+                <i class="bx bxl-github text-2xl"></i>
               </a>
             </li>
           </ul>
@@ -65,23 +64,23 @@
         <h2 class="block-title">Information</h2>
         <div class="space-y-4">
           <div class="flex justify-between">
-            <div class="text-gray-400">Location</div>
+            <div class="text-gray-500">Location</div>
             <div class="font-medium text-right text-gray-600">Tehran</div>
           </div>
           <div class="flex justify-between">
-            <div class="text-gray-400">Experience</div>
+            <div class="text-gray-500">Experience</div>
             <div class="font-medium text-right text-gray-600">20+ years</div>
           </div>
           <div class="flex justify-between">
-            <div class="text-gray-400">Birth</div>
+            <div class="text-gray-500">Birth</div>
             <div class="font-medium text-right text-gray-600">1986</div>
           </div>
           <div class="flex justify-between">
-            <div class="text-gray-400">Availability</div>
+            <div class="text-gray-500">Availability</div>
             <div class="font-medium text-right text-gray-600">Next Day</div>
           </div>
           <div class="flex justify-between">
-            <div class="text-gray-400">Relocation</div>
+            <div class="text-gray-500">Relocation</div>
             <div class="font-medium text-right text-gray-600">Yes</div>
           </div>
         </div>
